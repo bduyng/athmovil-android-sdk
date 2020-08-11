@@ -2,7 +2,7 @@ package com.evertecinc.athmovil.sdk;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.widget.TextView;
 import com.evertecinc.athmovil.sdk.checkout.PaymentResponse;
 import com.evertecinc.athmovil.sdk.checkout.interfaces.PaymentResponseListener;

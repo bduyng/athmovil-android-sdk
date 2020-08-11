@@ -1,6 +1,6 @@
 package com.evertecinc.athmovil.sdk.checkout.objects;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.io.Serializable;
 
